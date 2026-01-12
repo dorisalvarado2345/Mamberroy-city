@@ -1,0 +1,151 @@
+[02:51:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[02:51:08] [ServerMain/INFO]: Loaded 1470 recipes
+[02:51:08] [ServerMain/INFO]: Loaded 1584 advancements
+[02:51:08] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[02:51:08] [Server thread/INFO]: Loading properties
+[02:51:08] [Server thread/INFO]: Default game type: SURVIVAL
+[02:51:08] [Server thread/INFO]: Generating keypair
+[02:51:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:51:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:51:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:51:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:51:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:51:08] [Server thread/INFO]: Preparing level "world"
+[02:51:09] [Server thread/INFO]: Loading 0 persistent chunks...
+[02:51:09] [Server thread/INFO]: Preparing spawn area: 100%
+[02:51:09] [Server thread/INFO]: Time elapsed: 15 ms
+[02:51:09] [Server thread/INFO]: Done (0.421s)! For help, type "help"
+[02:51:14] [Server thread/INFO]: MrWachu[/127.56.248.135:33283] logged in with entity id 115 at (-398.1255809927597, 66.0, 406.34289677710956)
+[02:51:14] [Server thread/INFO]: MrWachu joined the game
+[02:51:23] [Server thread/INFO]: Ori[/127.95.213.37:40399] logged in with entity id 353 at (-338.63484390945194, 59.0, -345.97603702885954)
+[02:51:23] [Server thread/INFO]: Ori joined the game
+[02:51:27] [Server thread/INFO]: [Ori: Teleported Ori to -392.500000, 66.000000, 405.500000]
+[02:57:00] [Server thread/INFO]: dakumonsuta[/127.65.230.91:49003] logged in with entity id 2205 at (-336.47988426018964, 59.0, -345.30000001192093)
+[02:57:00] [Server thread/INFO]: dakumonsuta joined the game
+[02:58:07] [Server thread/INFO]: [MrWachu: Gave 30 experience levels to Ori]
+[02:58:19] [Server thread/INFO]: dakumonsuta lost connection: Disconnected
+[02:58:19] [Server thread/INFO]: dakumonsuta left the game
+[02:59:03] [Server thread/INFO]: Ori lost connection: Disconnected
+[02:59:03] [Server thread/INFO]: Ori left the game
+[02:59:21] [Server thread/INFO]: dakumonsuta[/127.65.230.91:35547] logged in with entity id 3235 at (-335.61019466442764, 59.0, -350.8002398120111)
+[02:59:21] [Server thread/INFO]: dakumonsuta joined the game
+[03:00:01] [Server thread/INFO]: [MrWachu: Teleported MrWachu to dakumonsuta]
+[03:00:05] [Server thread/INFO]: [MrWachu: Teleported MrWachu to -394.500000, 66.000000, 400.500000]
+[03:00:14] [Server thread/INFO]: Ori[/127.95.213.37:38147] logged in with entity id 3788 at (-396.7160915381876, 63.0, 402.11361280794193)
+[03:00:14] [Server thread/INFO]: Ori joined the game
+[03:00:43] [Server thread/INFO]: Ori lost connection: Disconnected
+[03:00:43] [Server thread/INFO]: Ori left the game
+[03:08:40] [Server thread/INFO]: Ori[/127.95.213.37:47179] logged in with entity id 6038 at (-396.4733909770576, 66.0, 398.0234417810403)
+[03:08:40] [Server thread/INFO]: Ori joined the game
+[03:09:03] [Server thread/INFO]: Ori lost connection: Disconnected
+[03:09:03] [Server thread/INFO]: Ori left the game
+[03:14:26] [Server thread/INFO]: Ori[/127.95.213.37:33779] logged in with entity id 7552 at (-397.4462195213317, 66.0, 397.694681373545)
+[03:14:26] [Server thread/INFO]: Ori joined the game
+[03:15:26] [Server thread/INFO]: [MrWachu: Teleported Ori to 82.500000, 128.000000, 26.500000]
+[03:15:55] [Server thread/INFO]: [MrWachu: Teleported MrWachu to dakumonsuta]
+[03:15:55] [Server thread/INFO]: andresdeoliver[/127.24.71.149:41661] logged in with entity id 8239 at (-306.0831949935832, 64.0, -327.55433289412804)
+[03:15:55] [Server thread/INFO]: andresdeoliver joined the game
+[03:18:51] [Server thread/INFO]: [Not Secure] <andresdeoliver> ./tp 140 107 146
+[03:19:09] [Server thread/INFO]: [MrWachu: Teleported MrWachu to -394.500000, 66.000000, 400.500000]
+[03:19:23] [Server thread/INFO]: [Ori: Teleported Ori to -392.500000, 66.000000, 405.500000]
+[03:20:12] [Server thread/INFO]: [MrWachu: Teleported MrWachu to dakumonsuta]
+[03:20:34] [Server thread/INFO]: [MrWachu: Teleported MrWachu to -394.500000, 66.000000, 400.500000]
+[03:24:00] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to 140.500000, 107.000000, 146.500000]
+[03:32:20] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to dakumonsuta]
+[03:32:49] [Server thread/INFO]: [MrWachu: Teleported Ori to 82.500000, 128.000000, 26.500000]
+[03:33:21] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to 140.500000, 107.000000, 146.500000]
+[03:33:23] [Server thread/WARN]: Mismatch in destroy block pos: is{x=76, y=131, z=53} is{x=77, y=130, z=53}
+[03:33:23] [Server thread/WARN]: Mismatch in destroy block pos: is{x=76, y=131, z=53} is{x=77, y=130, z=53}
+[03:33:37] [Server thread/INFO]: [Ori: Teleported Ori to MrWachu]
+[03:33:37] [Server thread/INFO]: [MrWachu: Teleported Ori to MrWachu]
+[03:45:29] [Server thread/INFO]: [Not Secure] <MrWachu> fap
+[03:45:33] [Server thread/INFO]: [Not Secure] <Ori> fap
+[03:45:35] [Server thread/INFO]: [Not Secure] <andresdeoliver> fap
+[03:45:38] [Server thread/INFO]: [Not Secure] <Ori> SAMUEEEEEEl
+[03:45:42] [Server thread/INFO]: [Not Secure] <Ori> listo
+[03:46:35] [Server thread/INFO]: [Not Secure] <Ori> fap fap fap
+[03:47:10] [Server thread/INFO]: [Ori: Teleported Ori to andresdeoliver]
+[03:47:22] [Server thread/INFO]: [Ori: Teleported Ori to -392.500000, 66.000000, 405.500000]
+[03:48:33] [Server thread/INFO]: [MrWachu: Teleported MrWachu to -394.500000, 66.000000, 400.500000]
+[03:56:31] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to MrWachu]
+[03:59:14] [Server thread/INFO]: [Not Secure] <andresdeoliver> ./tp 140 107 146
+[03:59:29] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to 140.500000, 107.000000, 146.500000]
+[03:59:41] [Server thread/INFO]: [MrWachu: Teleported MrWachu to 140.500000, 107.000000, 146.500000]
+[04:01:11] [Server thread/INFO]: [Ori: Teleported Ori to MrWachu]
+[04:01:35] [Server thread/INFO]: [Ori: Teleported Ori to -392.500000, 66.000000, 405.500000]
+[04:01:58] [Server thread/INFO]: [Ori: Teleported Ori to MrWachu]
+[04:02:11] [Server thread/INFO]: [Ori: Teleported Ori to -392.500000, 66.000000, 405.500000]
+[04:02:29] [Server thread/INFO]: [MrWachu: Teleported MrWachu to -394.500000, 66.000000, 400.500000]
+[04:07:19] [Server thread/INFO]: [Ori: Teleported Ori to -392.500000, 66.000000, 405.500000]
+[04:11:05] [Server thread/INFO]: [Ori: Teleported Ori to -392.500000, 66.000000, 405.500000]
+[04:20:46] [Server thread/INFO]: [MrWachu: Teleported MrWachu to Ori]
+[04:21:20] [Server thread/INFO]: [MrWachu: Teleported MrWachu to dakumonsuta]
+[04:21:33] [Server thread/INFO]: [MrWachu: Teleported MrWachu to andresdeoliver]
+[04:22:03] [Server thread/INFO]: [MrWachu: Teleported MrWachu to Ori]
+[04:23:57] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to dakumonsuta]
+[04:24:23] [Server thread/WARN]: Mismatch in destroy block pos: is{x=-343, y=60, z=-356} is{x=-343, y=61, z=-356}
+[04:25:16] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to dakumonsuta]
+[04:27:29] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to MrWachu]
+[04:31:20] [Server thread/INFO]: [Ori: Teleported Ori to MrWachu]
+[04:33:00] [Server thread/INFO]: [MrWachu: Teleported MrWachu to Ori]
+[04:33:24] [Server thread/INFO]: [Ori: Teleported Ori to -392.500000, 66.000000, 405.500000]
+[04:33:36] [Server thread/INFO]: [MrWachu: Teleported MrWachu to -394.500000, 66.000000, 400.500000]
+[04:40:20] [Server thread/WARN]: Spruce Boat (vehicle of andresdeoliver) moved too quickly! 3.8671017551415616,0.0,9.565707612024653
+[04:40:20] [Server thread/WARN]: Spruce Boat (vehicle of andresdeoliver) moved too quickly! 3.9826884423453066,0.0,9.947272383436484
+[04:40:20] [Server thread/WARN]: Spruce Boat (vehicle of andresdeoliver) moved too quickly! 4.1009869490396795,0.0,10.328047107267139
+[04:40:20] [Server thread/WARN]: Spruce Boat (vehicle of andresdeoliver) moved too quickly! 4.22231897129916,0.0,10.707878892697408
+[04:40:20] [Server thread/WARN]: Spruce Boat (vehicle of andresdeoliver) moved too quickly! 4.346910117983839,0.0,11.086645873620455
+[04:40:20] [Server thread/WARN]: Spruce Boat (vehicle of andresdeoliver) moved too quickly! 4.474907506484897,0.0,11.464253700112295
+[04:40:20] [Server thread/WARN]: Spruce Boat (vehicle of andresdeoliver) moved too quickly! 4.606395402387079,0.0,11.84063172883134
+[04:40:20] [Server thread/WARN]: Spruce Boat (vehicle of andresdeoliver) moved too quickly! 4.741402147263443,0.0,12.215732272858986
+[04:41:12] [Server thread/INFO]: [MrWachu: Teleported MrWachu to -394.500000, 66.000000, 400.500000]
+[04:41:14] [Server thread/INFO]: [MrWachu: Teleported MrWachu to Ori]
+[04:41:22] [Server thread/INFO]: Unknown or incomplete command. See below for error
+[04:41:22] [Server thread/INFO]: asdasdas<--[HERE]
+[04:42:31] [Server thread/WARN]: MrWachu moved too quickly! 6.230742633603484,-3.15233518685055,-7.610653054818755
+[04:44:05] [Server thread/INFO]: [MrWachu: Teleported MrWachu to Ori]
+[04:48:10] [Server thread/INFO]: [Ori: Teleported Ori to MrWachu]
+[04:51:39] [Server thread/INFO]: MrWachu has made the advancement [Sneak 100]
+[04:52:13] [Server thread/INFO]: [Ori: Teleported Ori to MrWachu]
+[04:53:32] [Server thread/INFO]: [MrWachu: Teleported MrWachu to -394.500000, 66.000000, 400.500000]
+[04:53:38] [Server thread/INFO]: [MrWachu: Teleported Ori to MrWachu]
+[04:54:05] [Server thread/INFO]: dakumonsuta lost connection: Disconnected
+[04:54:05] [Server thread/INFO]: dakumonsuta left the game
+[04:56:33] [Server thread/INFO]: [MrWachu: Teleported MrWachu to Ori]
+[04:57:19] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to MrWachu]
+[04:58:37] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to Ori]
+[05:01:12] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to Ori]
+[05:02:27] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to Ori]
+[05:03:23] [Server thread/INFO]: [Ori: Teleported Ori to MrWachu]
+[05:03:26] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to Ori]
+[05:06:00] [Server thread/INFO]: [Ori: Teleported Ori to MrWachu]
+[05:06:12] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to Ori]
+[05:09:46] [Server thread/INFO]: [Ori: Teleported Ori to MrWachu]
+[05:10:29] [Server thread/INFO]: [Ori: Teleported Ori to -654.500000, -37.000000, 410.500000]
+[05:13:27] [Server thread/INFO]: [MrWachu: Teleported MrWachu to andresdeoliver]
+[05:17:07] [Server thread/INFO]: [MrWachu: Teleported MrWachu to Ori]
+[05:17:31] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to MrWachu]
+[05:18:35] [Server thread/INFO]: [MrWachu: Teleported MrWachu to Ori]
+[05:19:21] [Server thread/INFO]: [Ori: Teleported Ori to MrWachu]
+[05:24:22] [Server thread/INFO]: [Ori: Teleported Ori to MrWachu]
+[05:24:43] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to MrWachu]
+[05:25:49] [Server thread/INFO]: [MrWachu: Teleported MrWachu to -394.500000, 66.000000, 400.500000]
+[05:25:55] [Server thread/INFO]: [Ori: Teleported Ori to -392.500000, 66.000000, 405.500000]
+[05:28:43] [Server thread/INFO]: [andresdeoliver: Teleported andresdeoliver to MrWachu]
+[05:32:21] [Server thread/INFO]: andresdeoliver lost connection: Disconnected
+[05:32:21] [Server thread/INFO]: andresdeoliver left the game
+[05:32:22] [Server thread/INFO]: MrWachu lost connection: Disconnected
+[05:32:22] [Server thread/INFO]: MrWachu left the game
+[05:32:23] [Server thread/INFO]: Ori lost connection: Disconnected
+[05:32:23] [Server thread/INFO]: Ori left the game
+[05:32:34] [Server thread/INFO]: Stopping the server
+[05:32:34] [Server thread/INFO]: Stopping server
+[05:32:34] [Server thread/INFO]: Saving players
+[05:32:34] [Server thread/INFO]: Saving worlds
+[05:32:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:32:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:32:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:32:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:32:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:32:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:32:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
